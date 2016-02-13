@@ -37,9 +37,8 @@ data = response.read()
 
 
 # Code to parse the text data
-
-f = open("/Users/kobrosly/Desktop/test.txt","r")
-data = f.read()
+#f = open("/Users/kobrosly/Desktop/test.txt","r")
+#data = f.read()
 
 
 id_spots = []
